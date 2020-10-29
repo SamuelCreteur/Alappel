@@ -6,6 +6,6 @@ Projet récompensé 2ème au TechDay 2020, + d’infos ici: https://www.efrei.fr
 
 Le site est accessible à l'adresse suivante : https://alappel.fr/
 
-
+Projet réalisé avec Lucas CHAMPSAUR, Samuel CRETEUR, Stephane DUCHEMIN, Vincent MOUILLON et Lucas PECH.
 
 
