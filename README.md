@@ -9,6 +9,10 @@ Le site permet les différentes fonctionnalités :
 - En tant qu'élève, le site permet de se mettre présent en inscrivant les numéros communiqués par le professeur pour l'appel généré. L'élève peut aussi consulter ses absences. 
 - En tant qu'administrateur, le site permet de consulter les absences de chaque élève et de les justifier si nécessaire. 
 
+Ce à quoi ressemble la vue d'un professeur lors de la génération de l'appel : 
+
+![](https://github.com/SamuelCreteur/Alappel/blob/main/Appel.png)
+
 Projet récompensé 2ème au TechDay 2020, + d’infos ici: https://www.efrei.fr/2eme-techday-efrei-paris/
 
 Le site est accessible à l'adresse suivante : https://alappel.fr/
